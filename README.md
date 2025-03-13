@@ -16,7 +16,7 @@ This report includes three **bookmarked dashboards** for interactive navigation:
 
 ## 🏆 Sales Dashboard  
 
-![Sales Dashboard](sales.dashboard.png)
+![Sales Dashboard](salesdashboard.png)
 
 **Key Metrics:**  
 ✔️ **Total Sales:** $29.36M  
